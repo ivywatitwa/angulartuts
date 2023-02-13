@@ -10,13 +10,19 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Do all the children's laundry",
       "day": "20/02/2023",
-      "reminder": true,
+      "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Do the dishes ",
+      "day": "February 14th 4pm",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
